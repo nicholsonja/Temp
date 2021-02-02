@@ -15,7 +15,7 @@ public class Practice {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Person p = new Person("Joe", "Schmoe", 21, true);
+        Person p = new Person("Joe", "Frank", 21, true);
         System.out.println("p = " + p);
     }
     
