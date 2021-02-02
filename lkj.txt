@@ -3,7 +3,5 @@ Doink
 AAA
 aaa blue
 BBB
-CCC
-DDD
 ddd
 EEE
